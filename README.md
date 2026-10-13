@@ -112,11 +112,12 @@ A faithful, production-ready, pixel-perfect recreation of the **FlyGrad Internat
     - Left: Interactive lead generation form (Name, Phone, Email, Destination dropdown, Preferred Course, Message).
     - Client-side validation with real-time error messages.
     - Floating toast notification upon submission: *"Thank you! Our team will contact you shortly."*
-    - Right: Contact details (Phone, Email, Office Address, Website), 4 social media pill links (Instagram: `https://www.instagram.com/flyygrad_?cplk=aHRjMnV6NHY3c2Nw`, Facebook: `https://www.facebook.com/share/1JJazUNRUu/`, LinkedIn, YouTube), and Google Maps iframe embed.
+    - Right: Contact details (Phone & WhatsApp: `+91 96669 96155`, Email: `info@flygrad.com`, Office Address: `Near JNTU College, Hyderabad, Telangana`, Website: `flygrad.com`), 4 social media pill links (Instagram: `https://www.instagram.com/flyygrad_?cplk=aHRjMnV6NHY3c2Nw`, Facebook: `https://www.facebook.com/share/1JJazUNRUu/`, LinkedIn, YouTube), and Google Maps iframe embed.
+    - Floating WhatsApp Enquiry button linking directly to `https://wa.me/919666996155`.
 
 12. **Footer**
     - 4-column dark navy footer (`#061840`).
-    - Brand description, updated social icons (Instagram & Facebook), Quick Links, Student Resources, Contact info, and copyright strip.
+    - Brand description, updated social icons (Instagram & Facebook), Quick Links, Student Resources, Contact info (`+91 96669 96155`, WhatsApp link, `info@flygrad.com`, Near JNTU College address), and copyright strip.
 
 ---
 
