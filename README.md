@@ -44,8 +44,8 @@ A faithful, production-ready, pixel-perfect recreation of the **FlyGrad Internat
 1. **Fixed Header & Responsive Navbar**
    - Shrinking header transition (`h-20` to `h-16`) on scroll (`window.scrollY > 24`).
    - Glassmorphism backdrop blur (`backdrop-blur-xl bg-background/80 shadow-sm`).
-   - FlyGrad official brand logo image (`assets/images/Logo.jpg`).
-   - Desktop navigation links (`Home`, `About Us`, `Study Destinations`, `Universities`, `Services`, `Why FlyGrad`, `Contact`).
+   - FlyGrad official brand transparent logo (`assets/images/Logo.png` / `assets/images/Logo-dark-bg.png`).
+   - Desktop navigation links (`Home`, `About Us`, `Study Destinations`, `Services`, `Why FlyGrad`, `Contact`).
    - "Book a Free Consultation" gradient pill button.
    - Mobile hamburger menu toggle with drawer.
 
@@ -87,11 +87,7 @@ A faithful, production-ready, pixel-perfect recreation of the **FlyGrad Internat
    - 8 service cards: Career Counselling, Course Selection, University Selection, Application Assistance, Documentation Support, Visa Guidance, Scholarship Guidance, Pre-Departure Guidance.
    - Hover lift and cyan border highlights with "Learn More ->" arrow indicators.
 
-8. **Universities Section (`#universities`)**
-   - 4 university categories: Research Universities, Medical Universities, Technology & Engineering, German Public Universities.
-   - Campus photography with hover zoom and centered "Explore Universities" CTA button.
-
-9. **Student Journey Timeline**
+8. **Student Journey Timeline**
    - 8 progressive steps:
      1. Free Consultation
      2. Profile Evaluation
@@ -103,19 +99,19 @@ A faithful, production-ready, pixel-perfect recreation of the **FlyGrad Internat
      8. Begin Your Global Journey
    - Connecting dashed timeline and numbered step badges (`01` to `08`).
 
-10. **CTA Banner**
-    - Deep blue gradient card with curved flight paths.
-    - Heading: "Ready to Start Your Global Education Journey?"
-    - White consultation button + Phone expert button.
+9. **CTA Banner**
+   - Deep blue gradient card with curved flight paths.
+   - Heading: "Ready to Start Your Global Education Journey?"
+   - White consultation button + Phone expert button.
 
-11. **Contact Section & Enquiry Form (`#contact`)**
+10. **Contact Section & Enquiry Form (`#contact`)**
     - Left: Interactive lead generation form (Name, Phone, Email, Destination dropdown, Preferred Course, Message).
     - Client-side validation with real-time error messages.
     - Floating toast notification upon submission: *"Thank you! Our team will contact you shortly."*
     - Right: Contact details (Phone & WhatsApp: `+91 96669 96155`, Email: `info@flygrad.com`, Office Address: `Near JNTU College, Hyderabad, Telangana`, Website: `flygrad.com`), 4 social media pill links (Instagram: `https://www.instagram.com/flyygrad_?cplk=aHRjMnV6NHY3c2Nw`, Facebook: `https://www.facebook.com/share/1JJazUNRUu/`, LinkedIn, YouTube), and Google Maps iframe embed.
     - Floating WhatsApp Enquiry button linking directly to `https://wa.me/919666996155`.
 
-12. **Footer**
+11. **Footer**
     - 4-column dark navy footer (`#061840`).
     - Brand description, updated social icons (Instagram & Facebook), Quick Links, Student Resources, Contact info (`+91 96669 96155`, WhatsApp link, `info@flygrad.com`, Near JNTU College address), and copyright strip.
 
